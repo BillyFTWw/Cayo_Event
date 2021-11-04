@@ -1,7 +1,6 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'billy_ftw'
 description 'Cayo Event'
 
 client_scripts {
